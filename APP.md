@@ -23,4 +23,42 @@ Major Learnings:
 10. PostMan
 11. so on..
 
-Setup:
+## Commands:
+Install globally:
+```
+npm install -g @angular/cli
+```
+
+Create Component:
+```
+ng g c component-name
+```
+
+## NavBar
+- Header part
+
+
+## Routing
+1. Create components
+2. Create Routes - in RootModule
+3. Bind Routes with links
+
+Add this line in `app.component.html` if you've used a router.
+```
+<router-outlet></router-outlet>
+```
+
+## Seller 
+
+## Tips
+1. Always use CSS in the browser(saves time)
+2. 
+
+## Interview Questions
+1. Can we explicitly create Component without using `ng command`
+- Yes
+
+2. `CSS Flex` why is it used?
+
+3. How to make a 404 Page?
+- 
