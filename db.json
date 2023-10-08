@@ -1,0 +1,28 @@
+{
+  "seller": [
+    {
+      "name": "sanket muttin",
+      "email": "sanket@mail.com",
+      "password": "pass@123",
+      "id": 1
+    },
+    {
+      "name": "omkar kadagud",
+      "email": "omkar@mail.com",
+      "password": "pass@123",
+      "id": 2
+    },
+    {
+      "name": "arpit n",
+      "password": "pass@123",
+      "email": "arpit@mail.com",
+      "id": 3
+    },
+    {
+      "name": "john doe",
+      "password": "pass@123",
+      "email": "johndoe@mail.com",
+      "id": 4
+    }
+  ]
+}
